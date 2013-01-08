@@ -1,2 +1,3 @@
 #!/bin/bash
-yum install puppet
+yum install puppet -y
+yum install man -y
